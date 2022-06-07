@@ -1,6 +1,6 @@
-# João Paulo Moura Clevelares
-## Computer engineering student from Brazil since 2021
-### It's always time to learn
+# João Paulo Moura Clevelares 👨‍🎓 👨‍💻
+## Computer engineering student from Brazil since 2021 📚 💻
+### It's always time to learn ⏳ 💡
 
 <div align="center">
   <a href="https://github.com/vortex2jm">
