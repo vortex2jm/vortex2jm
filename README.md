@@ -1,5 +1,12 @@
-### Hi there 👋
+# Hi there 👋
+## I'm João
 
+<div align="center">
+  <a href="https://github.com/vortex2jm">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vortex2jm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vortex2jm&layout=compact&theme=dracula"/>
+</div>
+  
 <!--
 **vortex2jm/vortex2jm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
