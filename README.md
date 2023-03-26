@@ -1,7 +1,7 @@
 ## João Paulo Moura Clevelares 👨‍🎓 👨‍💻
 ### About me :sparkles:
 
- - I'm 23 years old
+ - I'm 24 years old
  - I'm graduated in electromechanical technician
  - Coursing computer engineering at [UFES](https://www.ufes.br) since 2021
  - Programming microcontrollers, building websites, scripts, applications and simple games
