@@ -8,8 +8,9 @@
  - Always learning new technologies and skills
  
  ##
+ 
  <div align="center">
- <h3> My github stats and technologies that I usually use :hammer_and_wrench: </h3>
+  <h3> My github stats and technologies that I usually use :hammer_and_wrench: </h3>
  </div>
  
  ##
@@ -102,14 +103,16 @@
 </div>
 
 ##
+
  <div align="center">
   <h3> It's always time to learn ⏳ 💡 </h3>
  </div>
  
 ##
+
 <div align="center">
- <a href="https://vortex2jm.github.io/space-shooter/">Click here to play dino game 🎮</a><br>
- <a href="https://vortex2jm.github.io/dino-run-game/">Click here to play space shooter game 🚀</a>
+ <a href="https://vortex2jm.github.io/dino-run-game/">Click here to play dino game 🎮</a><br>
+ <a href="https://vortex2jm.github.io/space-shooter/">Click here to play space shooter game 🚀</a>
 </div>
 
 ##
