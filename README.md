@@ -110,14 +110,14 @@
  
 ##
 
-<div align="center">
+<div>
  <a href="https://vortex2jm.github.io/dino-run-game/">Click here to play dino game 🎮</a><br>
  <a href="https://vortex2jm.github.io/space-shooter/">Click here to play space shooter game 🚀</a>
 </div>
 
 ##
 
-<div> 
+<div align="right"> 
    <a href="https://www.instagram.com/joao_p_moura/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:joaopaulomoura5328@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
