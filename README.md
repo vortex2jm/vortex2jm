@@ -1,4 +1,5 @@
-## João Paulo Moura Clevelares 👨‍🎓 👨‍💻
+<h1 align="right"> João Paulo Moura 👨‍🎓 👨‍💻</h1>
+
 ### About me :sparkles:
 
  - I'm 24 years old
@@ -6,11 +7,14 @@
  - Coursing computer engineering at [UFES](https://www.ufes.br) since 2021
  - Programming microcontrollers, building websites, scripts, applications and simple games
  - Always learning new technologies and skills
+ - I'm currently involved in undergraduate research in the field of software defined networking
+ - Member of [Introcomp](https://introcomp.pet.inf.ufes.br/)
+ - Ex-member of [PET](https://pet.inf.ufes.br/)
  
  ##
  
  <div align="center">
-  <h3> My github stats and technologies that I usually use :hammer_and_wrench: </h3>
+  <h3> My github stats :chart_with_upwards_trend: </h3>
  </div>
  
  ##
@@ -22,7 +26,23 @@
 <a/>
 </div>
 
+##
+
+<div align="center">
+  <h3>Technologies I've worked on :hammer_and_wrench:</h3>
+</div>
+
+##
+
 <div style="display: inline_block" align="center"><br>
+  
+  <a href="https://github.com/vortex2jm" target="_blank">
+  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <a/>
+
+  <a href="https://github.com/vortex2jm" target="_blank">
+  <img align="center" alt="RaspOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
+  <a/>
   
   <a href="https://github.com/vortex2jm" target="_blank">
   <img align="center" alt="Vim" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
@@ -61,11 +81,39 @@
   </a>
   
   <a href="https://github.com/vortex2jm" target="_blank">
-  <!--<img align="center" alt="flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />-->
+  <img align="center" alt="flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <a/>
   
   <a href="https://github.com/vortex2jm" target="_blank">
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+  <a/>
+
+  <a href="https://github.com/vortex2jm" target="_blank">
+  <img align="center" alt="Grafana" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg">
+  <a/>
+   
+</div>
+<br>
+<div style="display: inline_block" align="center">
+
+  <a href="https://github.com/vortex2jm" target="_blank">
+  <img align="center" alt="Linux" height="30" width="40" src="https://techstack-generator.vercel.app/graphql-icon.svg">
+  <a/>
+  
+  <a href="https://github.com/vortex2jm" target="_blank">
+  <img align="center" alt="Linux" height="30" width="40" src="https://techstack-generator.vercel.app/restapi-icon.svg">
+  <a/>
+ 
+  <a href="https://github.com/vortex2jm" target="_blank">
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <a/>
+  
+  <a href="https://github.com/vortex2jm" target="_blank">
+  <img align="center" alt="Sqlite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
+  <a/>
+ 
+  <a href="https://github.com/vortex2jm" target="_blank">
+  <img align="center" alt="Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <a/>
   
   <a href="https://github.com/vortex2jm" target="_blank">
@@ -99,6 +147,11 @@
   <a href="../../../?tab=repositories&q=&type=&language=java&sort=" target="_blank">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <a/>
+
+  <a href="https://github.com/vortex2jm" target="_blank">
+  <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+  <a/>
+
   
 </div>
 
@@ -110,14 +163,17 @@
  
 ##
 
-<div>
- <a href="https://vortex2jm.github.io/dino-run-game/">Click here to play dino game 🎮</a><br>
- <a href="https://vortex2jm.github.io/space-shooter/">Click here to play space shooter game 🚀</a>
+<div style="display: inline_block">
+ 🔗<a href="https://vortex2jm.github.io/dino-run-game/">Dino Game :t-rex:</a><br>
+ 🔗<a href="https://vortex2jm.github.io/space-shooter/">Space Shooter Game 🚀👾</a>
 </div>
 
 ##
 
 <div align="right"> 
    <a href="https://www.instagram.com/joao_p_moura/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href = "mailto:joaopaulomoura5328@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://github.com/vortex2jm"><img src="https://img.shields.io/badge/facebook-032FDF?style=for-the-badge&logo=facebook"></a>
+   <a href = "mailto:joaopaulomoura5328@gmail.com"><img src="https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+   <a href="https://github.com/vortex2jm"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin" target="_blank"></a>
+   <a href="https://github.com/vortex2jm"><img src="https://img.shields.io/badge/Discord-828BF3?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
