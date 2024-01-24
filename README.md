@@ -163,10 +163,24 @@
  
 ##
 
+<p>
+  Throughout my journey in the world of computing, I had extensive exposure to older languages like C and low-level languages such as assembly. This enabled me to learn newer technologies more efficiently.
+</p>
+<p>
+  The projects I engaged with during my undergraduate studies also contributed to my exposure to web development, automation, and data. Additionally, being an enthusiast of electronics and programming, I enjoy working on   personal projects during my free time.
+</p> 
+<p>
+ You can play some games I created at the beginning of my undergraduate studies by clicking on the links below.
+</p>
+
 <div style="display: inline_block">
  🔗<a href="https://vortex2jm.github.io/dino-run-game/">Dino Game :t-rex:</a><br>
  🔗<a href="https://vortex2jm.github.io/space-shooter/">Space Shooter Game 🚀👾</a>
 </div>
+<br>
+<p>
+ You can find me on cards below and I invite you to scroll down the page and check some of my pinned repositories. I hope you enjoy it! :partying_face: 
+</p>
 
 ##
 
