@@ -2,7 +2,7 @@
 
 ### About me :sparkles:
 
- - I'm 24 years old
+ - I'm 25 years old
  - I'm graduated in electromechanical technician
  - Coursing computer engineering at [UFES](https://www.ufes.br) since 2021
  - Programming microcontrollers, building websites, scripts, applications and simple games
@@ -188,6 +188,6 @@
    <a href="https://www.instagram.com/joao_p_moura/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://github.com/vortex2jm"><img src="https://img.shields.io/badge/facebook-032FDF?style=for-the-badge&logo=facebook"></a>
    <a href = "mailto:joaopaulomoura5328@gmail.com"><img src="https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-   <a href="https://github.com/vortex2jm"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin" target="_blank"></a>
+   <a href="www.linkedin.com/in/joão-clevelares-287b04279"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin" target="_blank"></a>
    <a href="https://github.com/vortex2jm"><img src="https://img.shields.io/badge/Discord-828BF3?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
