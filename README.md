@@ -1,4 +1,4 @@
-<h1 align="right"> João Paulo Moura 👨‍🎓 👨‍💻</h1>
+<h1 align="right"> João Clevelares 👨‍🎓 👨‍💻</h1>
 
 ### About me :sparkles:
 
