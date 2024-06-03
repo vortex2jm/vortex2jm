@@ -3,12 +3,12 @@
 ### About me :sparkles:
 
  - I'm 25 years old
- - I'm graduated in electromechanical technician
+ - I'm electromechanical technician
  - Coursing computer engineering at [UFES](https://www.ufes.br) since 2021
  - Programming microcontrollers, building websites, scripts, applications and simple games
  - Always learning new technologies and skills
  - I'm currently involved in undergraduate research in the field of software defined networking
- - Member of [Introcomp](https://introcomp.pet.inf.ufes.br/)
+ - Ex-member of [Introcomp](https://introcomp.pet.inf.ufes.br/)
  - Ex-member of [PET](https://pet.inf.ufes.br/)
  
  ##
