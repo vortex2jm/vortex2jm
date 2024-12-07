@@ -73,7 +73,7 @@
   <a/>
   
   <a href="https://github.com/vortex2jm" target="_blank">
-  <img align="center" alt="nestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+  <img align="center" alt="nestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
   <a/>
   
   <a href="https://github.com/vortex2jm" target="_blank">
