@@ -367,6 +367,6 @@ and private clouds. Academically, I am developing projects in computer graphics,
 ##
 
 <div align="right"> 
-   <a href = "mailto:joaopaulomoura5328@gmail.com"><img src="https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+   <a href = "mailto:contato@joaoclev.dev.br"><img src="https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
    <a href="https://www.linkedin.com/in/joão-clevelares-287b04279"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin" target="_blank"></a>
 </div>
