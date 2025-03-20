@@ -17,7 +17,7 @@
 <div align="center">
   <a href="https://github.com/vortex2jm">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vortex2jm&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=ffffff00"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vortex2jm&layout=compact&langs_count=8&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=ffffff00" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vortex2jm&layout=compact&langs_count=8&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=ffffff00&hide=Jupyter%20Notebook" />
 </a>
 </div>
 
