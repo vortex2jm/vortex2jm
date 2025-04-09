@@ -1,7 +1,7 @@
 <h1 align="right"> João Clevelares 👨‍🎓 👨‍💻</h1>
 
 ### About me :sparkles:
- - I'm electromechanical technician
+ - Electromechanical technician
  - Computer Engineering undergraduate at [UFES](https://www.ufes.br) ⏳ 85%
  - DevOps and Networks Intern at [RNP](https://www.rnp.br/) 
  - Always learning new technologies and skills
@@ -254,6 +254,13 @@
       <br>
       Java
     </td>
+   <td align="center" width="100">
+      <a href="../../../?tab=repositories&q=&type=&language=go&sort=" target="_blank">
+        <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+      </a>
+      <br>
+      Go
+    </td>
     <td align="center" width="100">
       <a href="https://github.com/vortex2jm" target="_blank">
         <img align="center" alt="Prolog" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prolog/prolog-original.svg">
@@ -282,16 +289,16 @@
       <br>
       Jupyter Notebook
     </td>
-    <td align="center" width="100">
+  </tr>
+
+  <tr>
+   <td align="center" width="100">
       <a href="https://github.com/vortex2jm" target="_blank">
         <img align="center" alt="Insomnia" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg">
       </a>
       <br>
       Insomnia
     </td>
-  </tr>
-
-  <tr>
     <td align="center" width="100">
       <a href="https://github.com/vortex2jm" target="_blank">
         <img align="center" alt="Nginx" height="50" width="50" src="https://techstack-generator.vercel.app/nginx-icon.svg">
@@ -305,12 +312,6 @@
       </a>
       <br>
       Docker
-    </td>
-    <td align="center" width="100">
-      <a href="https://github.com/vortex2jm" target="_blank">
-        <img align="center" alt="SSH" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg">
-      </a>
-      <br>SSH
     </td>
     <td align="center" width="100">
       <a href="https://github.com/vortex2jm" target="_blank">
