@@ -2,7 +2,7 @@
 
 ### About me :sparkles:
  - Electromechanical technician
- - Computer Engineering undergraduate at [UFES](https://www.ufes.br) ⏳ 85%
+ - Computer Engineering undergraduate at [UFES](https://www.ufes.br) ⏳ 95%
  - DevOps and Networks Intern at [RNP](https://www.rnp.br/) 
  - Always learning new technologies and skills
  
@@ -292,13 +292,6 @@
   </tr>
 
   <tr>
-   <td align="center" width="100">
-      <a href="https://github.com/vortex2jm" target="_blank">
-        <img align="center" alt="Insomnia" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg">
-      </a>
-      <br>
-      Insomnia
-    </td>
     <td align="center" width="100">
       <a href="https://github.com/vortex2jm" target="_blank">
         <img align="center" alt="Nginx" height="50" width="50" src="https://techstack-generator.vercel.app/nginx-icon.svg">
@@ -312,6 +305,13 @@
       </a>
       <br>
       Docker
+    </td>
+   <td align="center" width="100">
+      <a href="https://github.com/vortex2jm" target="_blank">
+        <img align="center" alt="Kubernetes" height="50" width="50" src="https://techstack-generator.vercel.app/kubernetes-icon.svg">
+      </a>
+      <br>
+      Kubernetes
     </td>
     <td align="center" width="100">
       <a href="https://github.com/vortex2jm" target="_blank">
@@ -356,8 +356,8 @@
 Hello, how are you? I’m sharing some personal and academic projects here. I have experience in basic electronics,
 embedded systems, networks, and software development. I work with various programming languages, from low-level ones
 like Assembly to higher-level languages such as Rust and Python. I also program microcontrollers. Currently, I work 
-for RNP - Rede Nacional de Pesquisa, focusing on network infrastructure, Linux servers,
-and private clouds. Academically, I am developing projects in computer graphics, embedded systems, data science, and machine learning.
+for RNP - Rede Nacional de Pesquisa, focusing on network infrastructure, Linux servers, DevOps and software development. 
+Academically, I'm developing projects in embedded systems, and machine learning.
 </p>
 
 <br>
