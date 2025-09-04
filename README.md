@@ -353,9 +353,9 @@
 ##
 
 <p align="justify">
-Hello, how are you? I’m sharing some personal and academic projects here. I have experience in basic electronics,
-embedded systems, networks, and software development. I work with various programming languages, from low-level ones
-like Assembly to higher-level languages such as Rust and Python. I also program microcontrollers. Currently, I work 
+Hi, how's it going? I share some personal and academic projects here. I have experience in basic electronics,
+embedded systems, computer networks, software development and machine learning. I work with various programming languages, from low-level ones
+like Assembly to higher-level such as Rust and Python. I also program microcontrollers. Currently, I work 
 for RNP - Rede Nacional de Pesquisa, focusing on network infrastructure, Linux servers, DevOps and software development. 
 Academically, I'm developing projects in embedded systems, and machine learning.
 </p>
