@@ -3,8 +3,7 @@
 ### About me :sparkles:
  - Electromechanical technician
  - Computer Engineering undergraduate at [UFES](https://www.ufes.br) ⏳ 95%
- - DevOps and Networks Intern at [RNP](https://www.rnp.br/) 
- - Always learning new technologies and skills
+ - Software Analyst at [Atman Systems](https://atmansystems.com/) 
  
  ##
  
@@ -46,45 +45,28 @@
       <br>
       Raspberry Pi
     </td>
-    <td align="center" width="100">
+   <td align="center" width="100">
       <a href="https://github.com/vortex2jm" target="_blank">
-        <img align="center" alt="bash" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+        <img align="center" alt="ESP-IDF" height="50" width="50" src="https://companieslogo.com/img/orig/688018.SS-7fccbbee.png?t=1720244490">
       </a>
       <br>
-      Bash
-    </td>    
-    <td align="center" width="100">
+      ESP-IDF
+   </td>
+   <td align="center" width="100">
       <a href="https://github.com/vortex2jm" target="_blank">
-        <img align="center" alt="Vim" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
+        <img align="center" alt="Arduino" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
       </a>
       <br>
-      Vim
+      Arduino
+   </td>
+   <td align="center" width="100">
+      <a href="https://github.com/vortex2jm" target="_blank">
+        <img align="center" alt="FreeRTOS" height="50" width="50" src="https://avatars.githubusercontent.com/u/54647343?s=200&v=4">
+      </a>
+      <br>
+      FreeRTOS
     </td>
-    <td align="center" width="100">
-      <a href="https://github.com/vortex2jm" target="_blank">
-        <img align="center" alt="Vscode" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-      </a>
-      <br>
-      VSCode
-    </td>
-    <td align="center" width="100">
-      <a href="https://github.com/vortex2jm" target="_blank">
-        <img align="center" alt="Figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-      </a>
-      <br>
-      Figma
-    </td>
-    <td align="center" width="100">
-      <a href="https://github.com/vortex2jm" target="_blank">
-        <img align="center" alt="Canva" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
-      </a>
-      <br>
-      Canva
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="100">
+   <td align="center" width="100">
       <a href="https://github.com/vortex2jm" target="_blank">
         <img align="center" alt="nodeJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
       </a>
@@ -98,6 +80,16 @@
       <br>
       React
     </td>
+  </tr>
+
+  <tr>
+   <td align="center" width="100">
+      <a href="https://github.com/vortex2jm" target="_blank">
+        <img align="center" alt="TailwindCSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+      </a>
+      <br>
+      Tailwind CSS
+    </td>
     <td align="center" width="100">
       <a href="https://github.com/vortex2jm" target="_blank">
         <img align="center" alt="next" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
@@ -107,48 +99,55 @@
     </td>
     <td align="center" width="100">
       <a href="https://github.com/vortex2jm" target="_blank">
-        <img align="center" alt="vue" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-      </a>
-      <br>
-      VueJS
-    </td>
-    <td align="center" width="100">
-      <a href="https://github.com/vortex2jm" target="_blank">
         <img align="center" alt="nestJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
       </a>
       <br>
       NestJS
     </td>
-    <td align="center" width="100">
+   <td align="center" width="100">
       <a href="https://github.com/vortex2jm" target="_blank">
-        <img align="center" alt="spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+        <img align="center" alt="FastAPI" height="50" width="50" src="https://avatars.githubusercontent.com/u/156354296?s=200&v=4" />
       </a>
       <br>
-      Spring
-    </td>
-    <td align="center" width="100">
+      FastAPI
+   </td>
+   <td align="center" width="100">
       <a href="https://github.com/vortex2jm" target="_blank">
-        <img align="center" alt="flutter" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+        <img align="center" alt="ActixWeb" height="50" width="50" src="https://actix.rs/img/logo.png" />
       </a>
       <br>
-      Flutter
-    </td>
+      Actix Web
+   </td>
+   <td align="center" width="100">
+      <a href="https://github.com/vortex2jm" target="_blank">
+        <img align="center" alt="AndroidStudio" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
+      </a>
+      <br>
+      Android Studio
+   </td>
+   <td align="center" width="100">
+      <a href="https://github.com/vortex2jm" target="_blank">
+        <img align="center" alt="JetpackCompose" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg">
+      </a>
+      <br>
+      Jetpack Compose
+   </td>
   </tr>
 
   <tr>
-    <td align="center" width="100">
+   <td align="center" width="100">
       <a href="https://github.com/vortex2jm" target="_blank">
-        <img align="center" alt="GraphQL" height="50" width="50" src="https://techstack-generator.vercel.app/graphql-icon.svg">
+        <img align="center" alt="Jupyter" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
       </a>
       <br>
-      GraphQL
+      Jupyter Notebook
     </td>
-    <td align="center" width="100">
+   <td align="center" width="100">
       <a href="https://github.com/vortex2jm" target="_blank">
-        <img align="center" alt="REST" height="50" width="50" src="https://techstack-generator.vercel.app/restapi-icon.svg">
+        <img align="center" alt="OpenGL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg">
       </a>
       <br>
-      REST
+      OpenGL
     </td>
     <td align="center" width="100">
       <a href="https://github.com/vortex2jm" target="_blank">
@@ -156,7 +155,7 @@
       </a>
       <br>
       MongoDB
-    </td>
+   </td>
     <td align="center" width="100">
       <a href="https://github.com/vortex2jm" target="_blank">
         <img align="center" alt="Sqlite" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
@@ -240,7 +239,7 @@
   </tr>
 
   <tr>
-    <td align="center" width="100">
+   <td align="center" width="100">
       <a href="https://github.com/vortex2jm" target="_blank">
         <img align="center" alt="Rust" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg">
       </a>
@@ -255,18 +254,11 @@
       Java
     </td>
    <td align="center" width="100">
-      <a href="../../../?tab=repositories&q=&type=&language=go&sort=" target="_blank">
-        <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-      </a>
-      <br>
-      Go
-    </td>
-    <td align="center" width="100">
       <a href="https://github.com/vortex2jm" target="_blank">
-        <img align="center" alt="Prolog" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prolog/prolog-original.svg">
+        <img align="center" alt="Kotlin" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
       </a>
       <br>
-      Prolog
+      Kotlin
     </td>
     <td align="center" width="100">
       <a href="https://github.com/vortex2jm" target="_blank">
@@ -275,23 +267,37 @@
       <br>
       Assembly
     </td>
-    <td align="center" width="100">
+   <td align="center" width="100">
       <a href="https://github.com/vortex2jm" target="_blank">
-        <img align="center" alt="Arduino" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+        <img align="center" alt="Figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
       </a>
       <br>
-      Arduino
+      Figma
     </td>
     <td align="center" width="100">
       <a href="https://github.com/vortex2jm" target="_blank">
-        <img align="center" alt="Jupyter" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
+        <img align="center" alt="Canva" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
       </a>
       <br>
-      Jupyter Notebook
+      Canva
     </td>
+   <td align="center" width="100">
+      <a href="https://github.com/vortex2jm" target="_blank">
+        <img align="center" alt="Slack" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
+      </a>
+      <br>
+      Slack
+   </td>
   </tr>
 
   <tr>
+   <td align="center" width="100">
+      <a href="https://github.com/vortex2jm" target="_blank">
+        <img align="center" alt="Notion" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg">
+      </a>
+      <br>
+      Notion
+   </td>
     <td align="center" width="100">
       <a href="https://github.com/vortex2jm" target="_blank">
         <img align="center" alt="Nginx" height="50" width="50" src="https://techstack-generator.vercel.app/nginx-icon.svg">
@@ -334,13 +340,6 @@
       <br>
       Github
     </td>
-    <td align="center" width="100">
-      <a href="https://github.com/vortex2jm" target="_blank">
-        <img align="center" alt="OpenGL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg">
-      </a>
-      <br>
-      OpenGL
-    </td>
   </tr>
 </table>
 
@@ -355,9 +354,9 @@
 <p align="justify">
 Hi, how's it going? I share some personal and academic projects here. I have experience in basic electronics,
 embedded systems, computer networks, software development and machine learning. I work with various programming languages, from low-level ones
-like Assembly to higher-level such as Rust and Python. I also program microcontrollers. Currently, I work 
-for RNP - Rede Nacional de Pesquisa, focusing on network infrastructure, Linux servers, DevOps and software development. 
-Academically, I'm developing projects in embedded systems, and machine learning.
+like Assembly and C to higher-level such as Python. I also program microcontrollers. Currently, I work 
+for Atman Systems, focusing on development and maintenance of solutions for adaptive traffic control.
+Academically, I'm developing projects in embedded systems and machine learning.
 </p>
 
 <br>
@@ -369,6 +368,6 @@ Academically, I'm developing projects in embedded systems, and machine learning.
 ##
 
 <div align="right"> 
-   <a href = "mailto:contato@joaoclev.dev.br"><img src="https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+   <!-- <a href = "mailto:contato@joaoclev.dev.br"><img src="https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a> -->
    <a href="https://www.linkedin.com/in/joão-clevelares-287b04279"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin" target="_blank"></a>
 </div>
