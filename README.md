@@ -3,7 +3,9 @@
 ### About me :sparkles:
  - Electromechanical technician
  - Computer Engineering undergraduate at [UFES](https://www.ufes.br) ⏳ 95%
- - Software Analyst at [Atman Systems](https://atmansystems.com/) 
+ - Software Analyst at [Atman Systems](https://atmansystems.com/)
+ - Founder at [CyVex](https://cyvex.com.br)
+ - Co-Founder at [Criamus](https://criamus.com)
  
  ##
  
