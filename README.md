@@ -1,27 +1,12 @@
-<h1 align="right"> João Clevelares 👨‍🎓 👨‍💻</h1>
+![visitor badge](https://visitor-badge.imlete.cn/?id=vortex2jm.vortex2jm&label=Profile%20views)
+
+<h1 align="left"> João Clevelares 👨‍💻</h1>
 
 ### About me :sparkles:
+ - Computer Engineer
  - Electromechanical technician
- - Computer Engineering undergraduate at [UFES](https://www.ufes.br) ⏳ 95%
- - Software Analyst at [Atman Systems](https://atmansystems.com/)
  - Founder at [CyVex](https://cyvex.com.br)
  - Co-Founder at [Criamus](https://criamus.com)
- 
- ##
- 
- <div align="center">
-  <h3> My github stats :chart_with_upwards_trend: </h3>
- </div>
- 
- ##
- 
-<div align="center">
-  <a href="https://github.com/vortex2jm">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vortex2jm&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=ffffff00&hide=contribs,issues"/> 
-  
-   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vortex2jm&layout=compact&langs_count=8&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=ffffff00&hide=Jupyter%20Notebook" />
-</a>
-</div>
 
 ##
 
@@ -354,11 +339,13 @@
 ##
 
 <p align="justify">
-Hi, how's it going? I share some personal and academic projects here. I have experience in basic electronics,
-embedded systems, computer networks, software development and machine learning. I work with various programming languages, from low-level ones
-like Assembly and C to higher-level such as Python. I also program microcontrollers. Currently, I work 
-for Atman Systems, focusing on development and maintenance of solutions for adaptive traffic control.
-Academically, I'm developing projects in embedded systems and machine learning.
+Hi everyone 🤙, how's it going? I share some personal and academic projects here. I have experience in basic electronics,
+embedded systems, computer networks, software development and machine learning. 
+ 
+I work with various programming languages, from low-level ones
+like Assembly and C to higher-level such as Python. Currently, I work 
+for Atman Systems, focusing on development and maintenance of solutions for adaptive traffic control, 
+optimization, applied mathematics and microservices.
 </p>
 
 <br>
@@ -372,4 +359,7 @@ Academically, I'm developing projects in embedded systems and machine learning.
 <div align="right"> 
    <!-- <a href = "mailto:contato@joaoclev.dev.br"><img src="https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a> -->
    <a href="https://www.linkedin.com/in/joão-clevelares-287b04279"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin" target="_blank"></a>
+   <a href="https://criamus.com" target="_blank">
+     <img src="https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=ghost&logoColor=white" target="_blank">
+   </a>
 </div>
