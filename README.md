@@ -359,7 +359,7 @@ optimization, applied mathematics and microservices.
 <div align="right"> 
    <!-- <a href = "mailto:contato@joaoclev.dev.br"><img src="https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a> -->
    <a href="https://www.linkedin.com/in/joão-clevelares-287b04279"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin" target="_blank"></a>
-   <a href="https://criamus.com" target="_blank">
+   <a href="https://blog.joaoclev.com" target="_blank">
      <img src="https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=ghost&logoColor=white" target="_blank">
    </a>
 </div>
