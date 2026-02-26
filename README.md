@@ -5,8 +5,10 @@
 ### About me :sparkles:
  - Computer Engineer
  - Electromechanical technician
- - Founder at [CyVex](https://cyvex.com.br)
- - Co-Founder at [Criamus](https://criamus.com)
+ - Software Developer at [Atman Systems](https://atmansystems.com/)
+ - Entrepreneur
+ 
+Passionate about solving real-world problems through software, mathematics and engineering.
 
 ##
 
